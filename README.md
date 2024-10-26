@@ -1,3 +1,3 @@
-# DM2024-Lab1-Homework
+# DM2024-Lab1-Master
 
-Homework 1 for ISA5810
+ISA5810 Lab 1 Notebook
